@@ -1,2 +1,3 @@
-i have learing git of happy.
-and  learing english of happy.
+Git is a distributed version control system.
+Git is free software.Git is a distributed version control system.
+
